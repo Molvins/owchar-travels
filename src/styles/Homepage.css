@@ -1,0 +1,61 @@
+/* src/HomePage.css */
+.hero {
+    background-color: palevioletred;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+  }
+  
+  .hero-content h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .hero-content button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .featured-tours {
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .tour-cards {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+  }
+  
+  .tour-card {
+    width: 30%;
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  .testimonials {
+    background-color: #f1f1f1;
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .blog {
+    padding: 50px 20px;
+  }
+  
+  .blog-posts {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+  }
+  
+  .blog-post {
+    width: 45%;
+  }
+  
