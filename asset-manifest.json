@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/owchar-travels%3E/static/css/main.bc36d551.css",
+    "main.js": "/owchar-travels%3E/static/js/main.e5ac153d.js",
+    "static/js/488.5dc00adb.chunk.js": "/owchar-travels%3E/static/js/488.5dc00adb.chunk.js",
+    "index.html": "/owchar-travels%3E/index.html",
+    "main.bc36d551.css.map": "/owchar-travels%3E/static/css/main.bc36d551.css.map",
+    "main.e5ac153d.js.map": "/owchar-travels%3E/static/js/main.e5ac153d.js.map",
+    "488.5dc00adb.chunk.js.map": "/owchar-travels%3E/static/js/488.5dc00adb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc36d551.css",
+    "static/js/main.e5ac153d.js"
+  ]
+}
