@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/owchar-travels%3E/static/css/main.bc36d551.css",
-    "main.js": "/owchar-travels%3E/static/js/main.3b55922a.js",
-    "static/js/488.5dc00adb.chunk.js": "/owchar-travels%3E/static/js/488.5dc00adb.chunk.js",
-    "index.html": "/owchar-travels%3E/index.html",
-    "main.bc36d551.css.map": "/owchar-travels%3E/static/css/main.bc36d551.css.map",
-    "main.3b55922a.js.map": "/owchar-travels%3E/static/js/main.3b55922a.js.map",
-    "488.5dc00adb.chunk.js.map": "/owchar-travels%3E/static/js/488.5dc00adb.chunk.js.map"
+    "main.css": "/owchar-travels/static/css/main.bc36d551.css",
+    "main.js": "/owchar-travels/static/js/main.d5600a11.js",
+    "static/js/488.5dc00adb.chunk.js": "/owchar-travels/static/js/488.5dc00adb.chunk.js",
+    "index.html": "/owchar-travels/index.html",
+    "main.bc36d551.css.map": "/owchar-travels/static/css/main.bc36d551.css.map",
+    "main.d5600a11.js.map": "/owchar-travels/static/js/main.d5600a11.js.map",
+    "488.5dc00adb.chunk.js.map": "/owchar-travels/static/js/488.5dc00adb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc36d551.css",
-    "static/js/main.3b55922a.js"
+    "static/js/main.d5600a11.js"
   ]
 }
